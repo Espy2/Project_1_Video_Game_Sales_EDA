@@ -2,3 +2,4 @@
 
 Our Data Set: https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings?resource=download
 
+This exploratory data analytics project invololved  
