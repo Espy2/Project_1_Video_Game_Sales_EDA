@@ -125,28 +125,51 @@ Meaning that genre may be associated with differences in game sales within North
 
 Other factors may have a larger influence, like certain genres are more heavily marketed and have bigger development budgets.
 
-
-        
-    
-
-      
-  
-  Publishers: 
-
   Platforms:
+  # Calculate the total sales for each platform by summing sales from all regions
+
+  Group the data by 'Platform' and calculate the total sales for each                      
+  platforme
+  Create a DataFrame for best performing platforms
+
+  Find the platforms with the highest total sales
+
+  Create a bar chart for best performing platforms
+
+
+# Find the top platform by year of release
+  Create a bar chart to visualize the top platform by year of release
+
+# Group the data by Platform and calculate the number of game releases for   
+  Each platform
+  
+  Display the number of game releases for each platform
+  
+  Create a bar chart to visualize the number of game releases by platform
+
+# Group the data by 'Platform' and calculate the number of game releases for     
+  each platform
+
+  Display the number of game releases for each platform
+  
+  Create a bar chart to visualize the number of game releases by platform in  
+   escending order
+
+
 
   Top-Ten Games:
     1) How large was NA's influence on Global Sales?
     2) How does NA's choice in the top ten games influence/compare to the other regions' top ten games?
     3) 
 
-
+#Publishers: 
   Here is a list of sales in descending order grouped by publisher. In the top left, we can see the other sales. What’s interesting to see here is that in every other region, Nintendo is number 1. Here, Electronic arts outperformed to hold the number one spot.
 moving over to Japan sales in the top right, you can see that 61.3% of all sales are held by Nintendo, showcasing its dominance in the Japanese market. What’s also interesting to know is that of the top 10 publishers, the only one not a Japanese company is coming in 10th place; Electronic Arts
 moving to the bottom left corner is the EU sales data. You can see once again Nintendo has significantly higher sales than EA. The EU is a significantly larger market than the previous two regions we've covered.
 When looking at North American sales in the bottom right, we see that there is a higher volume of sales compared to the other three regions. The EU and NA have the same top 4 publishers, and 5 out of the next 6 spots are the same, just placed differently. 
 This graph collectively shows how much Nintendo outsold its competition. 
 in the same lay, we can look at sales grouped by Genre. As Luis alluded to with his statistical analysis, Action is the favored genre. in the other region, the competition is much closer.
+#generas:
 Japan is the only region where Action doesn’t hold the number one spot; it was bumped to the 3rd spot.
 The EU looks more evenly distributed. NA favors action and shooters.
 On this graph, we can see all the previous slide data displayed. what is interesting to see here is how Japan almost outplays North America in the role-playing genre. This also allows us to see how large the NA market is and how this region's sales dwarf the other regions we looked at.
